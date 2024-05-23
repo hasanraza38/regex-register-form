@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#form-div{
+
+    margin: 200px 200px;
+    display: flex;
+}
