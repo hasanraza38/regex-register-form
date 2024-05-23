@@ -21,11 +21,11 @@ form.addEventListener('submit' , (event)=>{
     // console.log(userName.value);
     // console.log(password.value);
 
-    console.log(userNameRegex.test(userName.value))
-    console.log(emailRegex.test(email.value));
-    console.log(passwordRegex.test(password.value))
-    console.log(cnicNumberRegex.test(cnic.value))
-    console.log(ageRegex.test(age.value))
+    // console.log(userNameRegex.test(userName.value))
+    // console.log(emailRegex.test(email.value));
+    // console.log(passwordRegex.test(password.value))
+    // console.log(cnicNumberRegex.test(cnic.value))
+    // console.log(ageRegex.test(age.value))
 
     if (userNameRegex === true) {
         console.log(userName.value);
